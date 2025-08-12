@@ -9,8 +9,8 @@
 - 📮 How to reach me: yulai.linda@gmail.com | www.linkedin.com/in/yu-lai
 
 🛠️ My Stacks:
-- Languages: TypeScript, JavaScript, Python, Java, Swift, C++
-- Web Frameworks: React, Next.js, Angular, Tailwind CSS, Node.js, Express, Flask
-- DevOps, Cloud, and Testing Tools: AWS, Docker, Google Cloud Platform, Selenium, Cypress, Playwright, Jest, Vercel, Git
-- Databases: MongoDB, MySQL, SQLite, SQL Server
+- Languages: TypeScript, JavaScript, Python, Java, Swift, C++, PHP
+- Frameworks: React, Next.js, Angular, Vue, Node.js, Express.js, Flask, Laravel, Tailwind CSS 
+- DevOps, Cloud, and Testing Tools: AWS, Docker, Google Cloud Platform, Selenium, Cypress, Playwright, Jest, Postman, Vercel, Git, Github Action
+- Databases: MongoDB, MySQL, Postsql, SQLite, SQL Server
 - Mobile: React Native, Swift, Expo
