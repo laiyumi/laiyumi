@@ -4,8 +4,9 @@
 **laiyumi/laiyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌽 I’m a software engieer passionate about leveraging creativity for a tech-driven impact.
-- 👀 I’m intrigued in intersection of technology, humans and desgin.
+- 🌽 I’m a software engieer that enjoys get things done.
+- 🏕️ I used to be a project manager and experiential learning curriculum designer.
+- 👀 I’m interested in building products that focus on solving specific problems, have a minimal design, and pay close attention to user experience. I’m also interested in tech for humanity.
 - 📮 How to reach me: yulai.linda@gmail.com | www.linkedin.com/in/yu-lai
 
 🛠️ My Toolkit:
