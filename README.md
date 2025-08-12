@@ -8,7 +8,7 @@
 - 👀 I’m intrigued in intersection of technology, humans and desgin.
 - 📮 How to reach me: yulai.linda@gmail.com | www.linkedin.com/in/yu-lai
 
-🛠️ My Stacks:
+🛠️ My Toolkit:
 - Languages: TypeScript, JavaScript, Python, Java, Swift, C++, PHP
 - Frameworks: React, Next.js, Angular, Vue, Node.js, Express.js, Flask, Laravel, Tailwind CSS 
 - DevOps, Cloud, and Testing Tools: AWS, Docker, Google Cloud Platform, Selenium, Cypress, Playwright, Jest, Postman, Vercel, Git, Github Action
